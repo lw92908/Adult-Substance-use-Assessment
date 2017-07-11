@@ -1,2 +1,2 @@
 # Adult-Substance-use-Assessment
-bio-psycho-social assessment for adults with substance use problems
+bio-psycho-social assessment for adult sustance use population
